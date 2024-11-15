@@ -110,3 +110,6 @@ web2: Total number of visits is: 3
 $ docker compose down
 ```
 
+## Final Image Output 
+
+![Counter Web Application](./Final_Output.png)
